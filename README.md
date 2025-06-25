@@ -19,7 +19,7 @@
       <h2>Camila, 25 anos</h2>
       <p>Companhia para eventos e viagens. Discreta, elegante e simpática.</p>
       <p>📍 Rio grande do sul</p>
-      <p>📱 WhatsApp: (51) 99284-0162</p>
+      <p>📱 WhatsApp: (00) 00000-0000</p>
     </div>
     <!-- Outras acompanhantes aqui -->
   </div>
