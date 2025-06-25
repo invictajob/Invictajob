@@ -18,8 +18,8 @@
       <img src="foto1.jpg" alt="Acompanhante 1">
       <h2>Camila, 25 anos</h2>
       <p>Companhia para eventos e viagens. Discreta, elegante e simpática.</p>
-      <p>📍 São Paulo - SP</p>
-      <p>📱 WhatsApp: (11) 91234-5678</p>
+      <p>📍 Rio grande do sul</p>
+      <p>📱 WhatsApp: (51) 99284-0162</p>
     </div>
     <!-- Outras acompanhantes aqui -->
   </div>
@@ -31,4 +31,4 @@
   <li><strong>Plano Básico – R$ 50/mês</strong>: Seu perfil com foto, nome, idade, cidade e WhatsApp no nosso catálogo.</li>
   <li><strong>Plano VIP – R$ 100/mês</strong>: Tudo do plano básico + destaque especial e posição preferencial na página.</li>
 </ul>
-<p>Após o pagamento, envie seus dados e fotos para <strong>(11) 91234-5678</strong> ou e-mail <strong>contato@invictasjobs.com</strong></p>
+<p>Após o pagamento, envie seus dados e fotos para <strong>(51) 99284-0162</strong> ou e-mail <strong>christhianoliveira55@gmail.com</strong></p>
